@@ -1,6 +1,8 @@
 # Airline_price_prediction
 Problem statement: Develop a regression model to predict the price of airline tickets accurately based on historical flight data and relevant features. The goal is to provide travelers with reliable price estimates for flight bookings, taking into account factors such as departure and arrival locations, dates, times, airline carriers, class of service, and other relevant parameters. The model should minimize prediction errors and offer valuable insights for both consumers and airlines to make informed decisions regarding ticket pricing and purchasing.
+
 Dataset: Dataset contains information about flight booking options from the website Easemytrip for flight travel between India's top 6 metro cities. There are 300261 datapoints and 11 features in the cleaned dataset.
+
 FEATURES
 The various features of the cleaned dataset are explained below:
 1) Airline: The name of the airline company is stored in the airline column. It is a categorical feature having 6 different airlines.
